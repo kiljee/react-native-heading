@@ -1,14 +1,26 @@
 {
-  "name": "@zsajjad/react-native-heading",
+  "name": "@kiljee/react-native-heading",
   "version": "1.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zsajjad/react-native-heading.git"
+    "url": "git+https://github.com/zsajjad/react-native-heading.git"
   },
   "homepage": "https://github.com/zsajjad/react-native-heading.git",
   "summary": "RN Package for head sensor detection",
   "license": "MIT",
-  "keywords": ["react-native", "react-component", "heading", "azimuth"],
+  "keywords": [
+    "react-native",
+    "react-component",
+    "heading",
+    "azimuth"
+  ],
   "main": "ReactNativeHeading",
-  "author": "Zain Sajjad <zsajjad93@gmail.com>"
+  "author": "Zain Sajjad <zsajjad93@gmail.com>",
+  "description": "Get device heading information on iOS or Android",
+  "bugs": {
+    "url": "https://github.com/zsajjad/react-native-heading/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
