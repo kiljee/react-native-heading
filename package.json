@@ -1,5 +1,5 @@
 {
-  "name": "@kiljee/react-native-heading",
+  "name": "@kilje/react-native-heading",
   "version": "1.1.0",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "azimuth"
   ],
   "main": "ReactNativeHeading",
-  "author": "Zain Sajjad <zsajjad93@gmail.com>",
+  "author": "kilje <okiljevic93@gmail.com>",
   "description": "Get device heading information on iOS or Android",
   "bugs": {
     "url": "https://github.com/zsajjad/react-native-heading/issues"
